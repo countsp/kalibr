@@ -56,4 +56,9 @@ rostopic
 resolution
 相机分辨率[width,height]
 ```
+# 内参 K,D
 
+K
+[ 509, 0, 940],
+ [ 0., 516, 791],
+[0., 0., 1. ] ）
